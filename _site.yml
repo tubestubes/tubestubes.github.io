@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "CV"
       href: CV.html
+    - text: "Projects"
+      href: projects.html
 output:
   html_document:
     theme: cosmo

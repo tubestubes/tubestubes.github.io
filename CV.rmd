@@ -4,19 +4,18 @@ title: "My CV"
 
 Generic CV. Available as PDF [here](cv.pdf).
 
-\n
+___
+># Skills
+>
+>**Mathematics:** Modelling, Statistics, Optimisation, Numerical Methods, Maple
+>
+>**Python:** Data Science, Spatial Data Science, OOP, Jupyter, Agent‑Based Modelling, Machine Learning, Data Mining
+>
+>**Software:** SQL, Microsoft Office, LaTeX, Julia, Maple, MATLAB, R/RStudio, Git/GitHub with Git Bash, Docker, Ubuntu
+>
+>**Professional:** Leadership, Life‑long Learning, Team Work, Project Leadership, Communication and Presentation, Time Management, Prioritization
 
-# Skills
-
-**Mathematics:** Modelling, Statistics, Optimisation, Numerical Methods, Maple
-
-**Python:** Data Science, Spatial Data Science, OOP, Jupyter, Agent‑Based Modelling, Machine Learning, Data Mining
-
-**Software:** SQL, Microsoft Office, LaTeX, Julia, Maple, MATLAB, R/RStudio, Git/GitHub with Git Bash, Docker, Ubuntu
-
-**Professional:** Leadership, Life‑long Learning, Team Work, Project Leadership, Communication and Presentation, Time Management, Prioritization
-
-\n
+___
 
 # Education 
 
@@ -32,7 +31,7 @@ Generic CV. Available as PDF [here](cv.pdf).
 
 -   The skills developed in this degree built on what I had before while teaching me to work independently with minimal guidance, and to carefully plan and manage my ongoing projects to deliver each one on time without comprising quality. I also gained valuable technical knowledge in machine learning to be used in the future.
 
-#### **BSc in Mathematics**- * 2:1 
+#### **BSc in Mathematics** - 2:1 
 
 **University of Liverpool**: Sept. 2016 ‑ Jun. 2019
 
@@ -42,7 +41,7 @@ Generic CV. Available as PDF [here](cv.pdf).
 
 -   Throughout this course I developed sharp skills in problem solving, numerical methods, and analysis. I focused on applied modules, always learning how mathematical models can be used on important problems. Managing the high workload matured my skills in time management and self motivation key to success in the workplace.
 
-\n
+___
 
 # Experience
 
@@ -54,7 +53,7 @@ Generic CV. Available as PDF [here](cv.pdf).
 
 -   Tuition provided me an excellent opportunity to work with people and help them learn and develop their skills in maths and English. A satisfying job and one that taught me a lot about dealing with complex people and how to communicate clearly and affectively.
 
-\n
+___
 
 # References 
 
