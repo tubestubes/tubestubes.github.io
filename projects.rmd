@@ -1,5 +1,5 @@
 ---
-title: "Projects Highlights"
+title: "Project Highlights"
 ---
 ___
 *Under Construction*
@@ -11,4 +11,4 @@ ___
 - GitHub [repo](https://github.com/tubestubes/MastersTidy)
 - Final report [pdf](main.pdf)
 
-I wrote a report planning a project on the simulation of driverless cars, studying existing literature on the topic. Then working with my supervisor and his feedback I did my master’s research project developing the simulation in Python and writing the report for my dissertation. This project made use of object‑orientated programming and custom modules. The data from my simulation was explored with visual tools such as Matplotlib and Seaborn, and I designed plots in Matplotlib to communicated results for my dissertation. Statistical analysis on each variable allowed me to draw conclusions on what parameters effect traffic flow, and the real world meaning of the parameters and their behaviour led to the conclusions of my report. 
+I wrote a report planning a project on the simulation of driverless cars, studying existing literature on the topic. Then working with my supervisor and his feedback I did my master’s research project developing the simulation in Python and writing the report for my dissertation. This project made use of object‑orientated programming and custom modules. The data from my simulation was explored with visual tools such as MatPlotLib and Seaborn, and I designed plots in MatPlotLib to communicated results for my dissestation. Statistical analysis on each variable allowed me to draw conclusions on what parameters effect traffic flow, and the real world meaning of the parameters and their behaviour led to the conclusions of my report. 
