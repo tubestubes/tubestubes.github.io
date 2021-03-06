@@ -1,0 +1,8 @@
+name: "William Kane Personal Site"
+navbar:
+  title: "William Kane"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: CV.html
