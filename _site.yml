@@ -1,4 +1,5 @@
 name: "William Kane Personal Site"
+output_dir: "docs"
 navbar:
   title: "William Kane"
   left:
@@ -6,3 +7,9 @@ navbar:
       href: index.html
     - text: "CV"
       href: CV.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
