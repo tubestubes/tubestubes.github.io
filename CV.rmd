@@ -8,6 +8,8 @@ ___
 
 Generic CV. Available as PDF [here](cv.pdf).
 
+![](assets/python.png){width=10%} ![](assets/r.svg){width=10%} ![](assets/julia.svg.png){width=10%} ![](assets/excel.svg.png){width=10%}
+
 ___
 ># Skills
 >
