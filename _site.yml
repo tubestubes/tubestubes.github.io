@@ -9,6 +9,8 @@ navbar:
       href: CV.html
     - text: "Projects"
       href: projects.html
+    - text: "Bits"
+      href: bits.html
 output:
   html_document:
     theme: cosmo

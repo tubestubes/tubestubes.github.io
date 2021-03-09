@@ -1,7 +1,6 @@
 ---
 title: "Project Highlights"
 ---
-___
 *Under Construction*
 
 ___
@@ -11,4 +10,25 @@ ___
 - GitHub [repo](https://github.com/tubestubes/MastersTidy)
 - Final report [pdf](main.pdf)
 
-I wrote a report planning a project on the simulation of driverless cars, studying existing literature on the topic. Then working with my supervisor and his feedback I did my master’s research project developing the simulation in Python and writing the report for my dissertation. This project made use of object‑orientated programming and custom modules. The data from my simulation was explored with visual tools such as MatPlotLib and Seaborn, and I designed plots in MatPlotLib to communicated results for my dissestation. Statistical analysis on each variable allowed me to draw conclusions on what parameters effect traffic flow, and the real world meaning of the parameters and their behaviour led to the conclusions of my report. 
+I wrote a report planning a project on the simulation of driverless cars, studying existing literature on the topic. Then working with my supervisor and his feedback I did my master’s research project developing the simulation in Python and writing the report for my dissertation. This project made use of object‑orientated programming and custom modules. The data from my simulation was explored with visual tools such as MatPlotLib and Seaborn, and I designed plots in MatPlotLib to communicated results for my dissertation. Statistical analysis on each variable allowed me to draw conclusions on what parameters effect traffic flow, and the real world meaning of the parameters and their behaviour led to the conclusions of my report. 
+
+___
+# Identifying the top 5 deprived but popular LSOAs in Liverpool for investment
+- Obtaining data, tidying data, spatial data analysis
+
+For a module in geographic data science, I wrote a report on the top 5 regions in Liverpool for fictional public funding, based on ’popularity’ and ’deprivation’. I analysed large datasets I found myself on census data and performed exploratory analysis to decide how to approach the problem, processing, tidying, and structuring the data with Excel and Python with Pandas. I was able to autonomously build an approach to measure deprivation and popularity and plotted my data over maps of the city as a choropleth, highlighting my methodology and chosen regions for funding.
+
+___
+# Operational research in Maple
+- Group project 
+
+I completed a group project where I led and coordinated my group to create a technical report advising the reader on how to use Maple for operational research calculations and plots. Each section was delegated to a difference team member, and I wrote the introduction and conclusion. I arranged group meetings, meetings with our supervisor and assisted team members with problem solving, particularly helping a dyslexic member with her write up and less numerical content.  I oversaw the drafting of the final report, providing a printout that we went through together annotating and changes we agreed to make. The report also contained worked examples in the appendix that for assessment purposes had to be completed independently. After the report was submitted, we presented a group presentation summering the report, where we each spoke about our section to the assessors and answered any questions they asked. The assessors pretended to be new to the topic and we provided clarification and intuitive explanations where necessary.  
+
+___
+# Artificial Neural Networks as a Surrogate Model
+- Machine Learning project, ANN as a regression model, then Monte Carlo analysis
+- GitHub [repo](https://github.com/tubestubes/AnnSurrogate)
+
+___
+# Reliability Analysis of Systems with Advanced Monte Carlo Methods
+- Report complaring traditional Monte Carlo methods with Subset Simulation and Line Sampling
