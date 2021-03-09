@@ -1,8 +1,14 @@
 ---
-title: Bits
+title: Bits - Small Side Projects
 ---
 *Under Construction*
 
 ___
 
-*[todo] small side projects*
+## This site
+- Built in R markdown, converted to html, hosted with GitHub pages
+
+## R Shiny Traffic
+- Learning R Shiny by building an interactive visualisation of traffic on each road of the network from my masters project
+- Github [repo](github.com/tubestubes/RShiny_traffic)
+- Interactive web app coming soon
