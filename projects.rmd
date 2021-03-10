@@ -31,4 +31,4 @@ ___
 
 ___
 # Reliability Analysis of Systems with Advanced Monte Carlo Methods
-- Report complaring traditional Monte Carlo methods with Subset Simulation and Line Sampling
+- Report comparing traditional Monte Carlo methods with Subset Simulation and Line Sampling

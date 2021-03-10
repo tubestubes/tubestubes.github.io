@@ -10,5 +10,5 @@ ___
 
 ## R Shiny Traffic
 - Learning R Shiny by building an interactive visualisation of traffic on each road of the network from my masters project
-- Github [repo](github.com/tubestubes/RShiny_traffic)
-- Interactive web app coming soon
+- Github [repo](http://github.com/tubestubes/RShiny_traffic)
+- Interactive web [app](https://tubestubes.shinyapps.io/shiny_traffic/)
