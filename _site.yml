@@ -16,4 +16,5 @@ output:
     theme: cosmo
     highlight: textmate
     include:
+      before_body: construct.html
       after_body: footer.html

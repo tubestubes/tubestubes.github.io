@@ -1,9 +1,6 @@
 ---
 title: "Project Highlights"
 ---
-*Under Construction*
-
-___
 
 # Day-to-day traffc demand and flow dynamics with autonomous vehicles
 - Planning report, followed by a three month research project for my dissertation

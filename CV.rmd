@@ -1,9 +1,6 @@
 ---
 title: "My CV"
 ---
-*Under Construction*
-
-___
 
 Generic CV. Available as PDF [here](cv.pdf).
 
@@ -26,11 +23,11 @@ ___
 
 #### **MSc(Eng) in Risk and Uncertainty** - Distinction 
 
-**University of Liverpool**: Sept. 2019 ‑ Aug. 2021
+**University of Liverpool**: Sept. 2019 ‑ Aug. 2020
 
 - Modules include Modern Management, Geographic Data Science, Data Mining, Monte Carlo, Risk Analysis
 
-- Research project in Agent‑based modelling of mixed autonomous/human vehicles in a road network
+- Research project in agent‑based modelling of mixed autonomous/human vehicles in a road network
 
 - Other projects include training an artificial neural network to act as a surrogate model in python, and advanced Monte Carlo methods in MATLAB. 
 

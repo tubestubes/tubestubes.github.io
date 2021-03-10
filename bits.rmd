@@ -1,9 +1,6 @@
 ---
 title: Bits - Small Side Projects
 ---
-*Under Construction*
-
-___
 
 ## This site
 - Built in R markdown, converted to html, hosted with GitHub pages
