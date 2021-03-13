@@ -1,6 +1,7 @@
 ---
 title: "My CV"
 ---
+___
 
 Generic CV. Available as PDF [here](cv.pdf).
 
@@ -33,17 +34,17 @@ ___
 
 - This course built on technical knowledge of Bachelors degree and focused on a deeper understanding of key concepts. I split my focus 50:50 between data science orientated and risk orientated modules, as well as general modules on Advanced Modern Management and Project Planning. The course concluded with a three month research project in which I developed object orientated python code to simulate the effects of driverless cars mixed with normal traffic on traffic flow, and wrote up a detailed analysis of the data I generated.
 
--   The skills developed in this degree built on what I had before while teaching me to work independently with minimal guidance, and to carefully plan and manage my ongoing projects to deliver each one on time without comprising quality. I also gained valuable technical knowledge in machine learning to be used in the future.
+- The skills developed in this degree built on what I had before while teaching me to work independently with minimal guidance, and to carefully plan and manage my ongoing projects to deliver each one on time without comprising quality. I also gained valuable technical knowledge in machine learning to be used in the future.
 
 #### **BSc in Mathematics** - 2:1 
 
 **University of Liverpool**: Sept. 2016 ‑ Jun. 2019
 
--   Modules include Statistics, Calculus, Modelling, Quantum Mechanics, Networks, Finance, Game Theory / Economics, Operational Research
+- Modules include Statistics, Calculus, Modelling, Quantum Mechanics, Networks, Finance, Game Theory / Economics, Operational Research
 
--   Group Project where I lead and coordinated my group to create a report on using Maple for operational research calculations. •
+- Group Project where I lead and coordinated my group to create a report on using Maple for operational research calculations.
 
--   Throughout this course I developed sharp skills in problem solving, numerical methods, and analysis. I focused on applied modules, always learning how mathematical models can be used on important problems. Managing the high workload matured my skills in time management and self motivation key to success in the workplace.
+- Throughout this course I developed sharp skills in problem solving, numerical methods, and analysis. I focused on applied modules, always learning how mathematical models can be used on important problems. Managing the high workload matured my skills in time management and self motivation key to success in the workplace.
 
 ___
 
@@ -51,11 +52,11 @@ ___
 
 #### **Bar Tender - Soho Bar Liverpool** : Jun. 2018 ‑ Aug. 2018
 
--    A fast paced and customer focused job where I developed skills in hospitality which can be transferred to other situations involving solving problems on the fly to provide clients with what they expect.
+- A fast paced and customer focused job where I developed skills in hospitality which can be transferred to other situations involving solving problems on the fly to provide clients with what they expect.
 
 #### **Tuition Assistant - KUMON Wrexham**: Sept. 2013 ‑ Oct. 2014 
 
--   Tuition provided me an excellent opportunity to work with people and help them learn and develop their skills in maths and English. A satisfying job and one that taught me a lot about dealing with complex people and how to communicate clearly and affectively.
+- Tuition provided me an excellent opportunity to work with people and help them learn and develop their skills in maths and English. A satisfying job and one that taught me a lot about dealing with complex people and how to communicate clearly and affectively.
 
 ___
 

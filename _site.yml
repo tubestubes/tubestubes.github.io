@@ -11,10 +11,14 @@ navbar:
       href: projects.html
     - text: "Bits"
       href: bits.html
+    - text: "---------"
+  right:
+    - icon: fab fa-github
+      href: https://github.com/tubestubes
 output:
   html_document:
     theme: cosmo
     highlight: textmate
     include:
-      before_body: construct.html
+      #before_body: construct.html
       after_body: footer.html

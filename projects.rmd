@@ -1,6 +1,7 @@
 ---
 title: "Project Highlights"
 ---
+___
 
 # Day-to-day traffc demand and flow dynamics with autonomous vehicles
 - Planning report, followed by a three month research project for my dissertation
@@ -23,9 +24,10 @@ I completed a group project where I led and coordinated my group to create a tec
 
 ___
 # Artificial Neural Networks as a Surrogate Model
-- Machine Learning project, ANN as a regression model, then Monte Carlo analysis
+- Machine Learning project, ANN as a regression model, Monte Carlo analysis
 - GitHub [repo](https://github.com/tubestubes/AnnSurrogate)
 
 ___
 # Reliability Analysis of Systems with Advanced Monte Carlo Methods
 - Report comparing traditional Monte Carlo methods with Subset Simulation and Line Sampling
+- Coded in MATLAB with OpenCossan
